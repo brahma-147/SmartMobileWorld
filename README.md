@@ -12,7 +12,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 --> Open terminal in vs code.
 --> Then enter "npm install" for installing the required node modules for the project.
 
-## Step 4: Now enter "npm start" and a (for android)
+## Step 4: Now enter "npm start" and "a" (for android)
 --> After installing node modules, then enter "npm start" in the terminal to starting the project.
 --> Then enter "a" for android emulator.
 
